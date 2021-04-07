@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cyxceven !
-- 👀 I’m interested in vtubers!
-- 🌱 I’m currently learning that everything is terrible!
-- 💞️ I’m looking to collaborate some time in the future!
-- 📫 How to reach me: currently impossible!
+- 👀 I’m interested in virtual streamers!
+- 🌱 I’m wiping this repo and starting over!
+- 💞️ I’m looking to make vidya games again!
+- 📫 Look for me on Twitch, Twitter and Discord!
 
 <!---
 cyxceven/cyxceven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
